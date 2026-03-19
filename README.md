@@ -1,2 +1,3 @@
-# flex-content-cms-m6pw
-Automated issue comment bot repository
+# Flex Content Cms M6Pw
+
+Automated issue comment bot repository.
